@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\syptoms\syptoms\obj\Debug\syptoms.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\syptoms\syptoms\obj\Debug\syptoms.Form1.resources
+C:\Users\Administrator\source\repos\syptoms\syptoms\obj\Debug\syptoms.Properties.Resources.resources
+C:\Users\Administrator\source\repos\syptoms\syptoms\obj\Debug\syptoms.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\syptoms\syptoms\obj\Debug\syptoms.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\syptoms\syptoms\bin\Debug\syptoms.exe.config
+C:\Users\Administrator\source\repos\syptoms\syptoms\bin\Debug\syptoms.exe
+C:\Users\Administrator\source\repos\syptoms\syptoms\bin\Debug\syptoms.pdb
+C:\Users\Administrator\source\repos\syptoms\syptoms\obj\Debug\syptoms.exe
+C:\Users\Administrator\source\repos\syptoms\syptoms\obj\Debug\syptoms.pdb
